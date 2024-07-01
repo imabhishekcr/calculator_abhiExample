@@ -1,4 +1,4 @@
 #!bin/bash
 
-Addition 
+Addition calci 
 a=b+c;
